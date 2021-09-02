@@ -9,3 +9,4 @@ If you noticed than a checklist is not complete please perform a pull request or
 
 # Notice
 This is a live repository which means that checklists will be updated as soon as articles are published. 
+And this is a test of the emergency broadcast system.
